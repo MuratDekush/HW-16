@@ -1,0 +1,19 @@
+.img {
+  width: 1300px;
+  height: 700px;
+  background-image:
+    url(./img/lamp.png), url(./img/ej.png), url(./img/donut.png),
+    url(./img/grass.png);
+  background-repeat: repeat-x, repeat-y, repeat-y, repeat-x;
+  background-position:
+    top,
+    left center,
+    right top,
+    bottom;
+  background-size:
+    auto 60px,
+    80px auto,
+    40px auto,
+    auto 100px;
+  background-color: green;
+}
