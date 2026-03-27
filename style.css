@@ -3,13 +3,14 @@
   height: 700px;
   background-image:
     url(./img/lamp.png), url(./img/ej.png), url(./img/donut.png),
-    url(./img/grass.png);
+    url(./img/grass.png) url(./img/house.webp);
   background-repeat: repeat-x, repeat-y, repeat-y, repeat-x;
   background-position:
     top,
     left center,
     right top,
-    bottom;
+    bottom,
+center;
   background-size:
     auto 60px,
     80px auto,
