@@ -17,3 +17,13 @@
     auto 100px;
   background-color: green;
 }
+
+box{
+   width: 500px;
+   height: 400px;
+   outline: 5px solid red;
+   background-image: linear-gradient(rgba(255, 255, 0, 0.485),rgba(255, 255, 0, 0.509) 50%, rgba(2, 2, 249, 0.486) 50%, rgba(0, 0, 255, 0.494)),url(../img/nebo.jpeg);
+   background-repeat: no-repeat;
+   background-position: center;
+   background-size: cover;
+}
